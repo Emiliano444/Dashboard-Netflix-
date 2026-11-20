@@ -1,0 +1,271 @@
+{
+  "kpis": {
+    "titulos": 8792,
+    "paises": 122,
+    "generoTop": "International Movies",
+    "anioPico": 2018
+  },
+  "porAnio": [
+    {
+      "anio": 2000,
+      "titulos": 37
+    },
+    {
+      "anio": 2001,
+      "titulos": 45
+    },
+    {
+      "anio": 2002,
+      "titulos": 51
+    },
+    {
+      "anio": 2003,
+      "titulos": 59
+    },
+    {
+      "anio": 2004,
+      "titulos": 64
+    },
+    {
+      "anio": 2005,
+      "titulos": 80
+    },
+    {
+      "anio": 2006,
+      "titulos": 96
+    },
+    {
+      "anio": 2007,
+      "titulos": 88
+    },
+    {
+      "anio": 2008,
+      "titulos": 135
+    },
+    {
+      "anio": 2009,
+      "titulos": 152
+    },
+    {
+      "anio": 2010,
+      "titulos": 193
+    },
+    {
+      "anio": 2011,
+      "titulos": 185
+    },
+    {
+      "anio": 2012,
+      "titulos": 236
+    },
+    {
+      "anio": 2013,
+      "titulos": 286
+    },
+    {
+      "anio": 2014,
+      "titulos": 352
+    },
+    {
+      "anio": 2015,
+      "titulos": 556
+    },
+    {
+      "anio": 2016,
+      "titulos": 901
+    },
+    {
+      "anio": 2017,
+      "titulos": 1031
+    },
+    {
+      "anio": 2018,
+      "titulos": 1146
+    },
+    {
+      "anio": 2019,
+      "titulos": 1030
+    },
+    {
+      "anio": 2020,
+      "titulos": 953
+    },
+    {
+      "anio": 2021,
+      "titulos": 592
+    }
+  ],
+  "generos": [
+    {
+      "nombre": "International Movies",
+      "titulos": 2752
+    },
+    {
+      "nombre": "Dramas",
+      "titulos": 2426
+    },
+    {
+      "nombre": "Comedies",
+      "titulos": 1674
+    },
+    {
+      "nombre": "International TV Shows",
+      "titulos": 1349
+    },
+    {
+      "nombre": "Documentaries",
+      "titulos": 869
+    }
+  ],
+  "directores": [
+    {
+      "nombre": "Rajiv Chilaka",
+      "titulos": 22
+    },
+    {
+      "nombre": "Jan Suter",
+      "titulos": 21
+    },
+    {
+      "nombre": "Raúl Campos",
+      "titulos": 19
+    },
+    {
+      "nombre": "Suhas Kadav",
+      "titulos": 16
+    },
+    {
+      "nombre": "Marcus Raboy",
+      "titulos": 16
+    }
+  ],
+  "tipos": [
+    {
+      "nombre": "Películas",
+      "valor": 6129
+    },
+    {
+      "nombre": "Series",
+      "valor": 2663
+    }
+  ],
+  "paises": {
+    "USA": 3684,
+    "IND": 1046,
+    "GBR": 805,
+    "CAN": 445,
+    "FRA": 393,
+    "JPN": 316,
+    "ESP": 232,
+    "KOR": 231,
+    "DEU": 232,
+    "MEX": 169,
+    "CHN": 162,
+    "AUS": 158,
+    "EGY": 117,
+    "TUR": 113,
+    "HKG": 105,
+    "NGA": 103,
+    "ITA": 99,
+    "BRA": 97,
+    "ARG": 91,
+    "BEL": 90,
+    "IDN": 90,
+    "TWN": 89,
+    "PHL": 83,
+    "THA": 70,
+    "ZAF": 62,
+    "COL": 52,
+    "NLD": 50,
+    "DNK": 48,
+    "IRL": 46,
+    "SWE": 42,
+    "SGP": 41,
+    "POL": 41,
+    "ARE": 37,
+    "NZL": 33,
+    "LBN": 31,
+    "ISR": 30,
+    "NOR": 30,
+    "CHL": 29,
+    "RUS": 30,
+    "MYS": 26,
+    "PAK": 24,
+    "CZE": 22,
+    "CHE": 19,
+    "ROU": 14,
+    "URY": 14,
+    "SAU": 13,
+    "AUT": 12,
+    "LUX": 12,
+    "FIN": 11,
+    "GRC": 11,
+    "HUN": 11,
+    "ISL": 11,
+    "BGR": 10,
+    "QAT": 10,
+    "PER": 10,
+    "JOR": 9,
+    "KWT": 8,
+    "VNM": 7,
+    "SRB": 7,
+    "KEN": 6,
+    "KHM": 6,
+    "PRT": 6,
+    "MAR": 6,
+    "GHA": 5,
+    "VEN": 4,
+    "BGD": 4,
+    "HRV": 4,
+    "IRN": 4,
+    "DZA": 3,
+    "SYR": 3,
+    "SEN": 3,
+    "MLT": 3,
+    "ZWE": 3,
+    "UKR": 3,
+    "SVN": 3,
+    "NPL": 2,
+    "MUS": 2,
+    "CYM": 2,
+    "NAM": 2,
+    "GTM": 2,
+    "IRQ": 2,
+    "GEO": 2,
+    "BFA": 1,
+    "ETH": 1,
+    "CMR": 1,
+    "AGO": 1,
+    "MOZ": 1,
+    "BLR": 1,
+    "PRI": 1,
+    "CYP": 1,
+    "MWI": 1,
+    "PRY": 1,
+    "ALB": 1,
+    "SVK": 1,
+    "BMU": 1,
+    "ECU": 1,
+    "ARM": 1,
+    "MNG": 1,
+    "BHS": 1,
+    "LKA": 1,
+    "LVA": 1,
+    "LIE": 1,
+    "CUB": 1,
+    "NIC": 1,
+    "DOM": 1,
+    "WSM": 1,
+    "AZE": 1,
+    "BWA": 1,
+    "JAM": 1,
+    "KAZ": 1,
+    "LTU": 1,
+    "AFG": 1,
+    "SOM": 1,
+    "SDN": 1,
+    "PAN": 1,
+    "UGA": 1,
+    "MNE": 1
+  }
+}
